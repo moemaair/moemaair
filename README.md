@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/codingin254" target="blank"><img src="https://img.shields.io/twitter/follow/codingin254?logo=twitter&style=for-the-badge" alt="codingin254" /></a> </p>
 
-- 🔭 I’m currently working on [Mantana App](https://github.com/moemaair/Mantrana)
+- 🔭 I’m currently working on [AdviceZoid](https://github.com/moemaair/Advicezoid)
 
 - 🌱 I’m currently learning **Jetpack Compose**
 
