@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://twitter.com/codingin254" target="blank"><img src="https://img.shields.io/twitter/follow/codingin254?logo=twitter&style=for-the-badge" alt="codingin254" /></a> </p>
 
-- 🔭 I’m currently working on [AdviceZoid](https://github.com/moemaair/Advicezoid)
+- 🔭 I’m currently working on [Lictionary](https://github.com/moemaair/Lictionary)
 
 - 🌱 I’m currently learning **Jetpack Compose**
 
-- 👨‍💻 All of my projects are available at [http://moemaairdev.netlify.app](http://moemaairdev.netlify.app)
+- 👨‍💻 All of my projects are available at [http://mohamedi.netlify.app](http://mohamedi.netlify.app)
 
-- 📫 How to reach me **ibrahimohamed@outlook.com**
+- 📫 How to reach me **ibrahimohamed81@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
