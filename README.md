@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohamed Ibrahim</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moemaair&label=Profile%20views&color=0e75b6&style=flat" alt="moemaair" /> </p>
 
-- 🔭 I’m currently working on [vomie](https://github.com/moemaair/vomieBackend)
+- 🔭 I’m currently working on my Devops skills
 
 - 👨‍💻 All of my projects are available at [https://mohamedi.netlify.app/](https://mohamedi.netlify.app/)
 
